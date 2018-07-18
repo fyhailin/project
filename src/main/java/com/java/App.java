@@ -7,6 +7,7 @@ package com.java;
 public class App {
     public static void main( String[] args ) {
     	doTestGC();
+    	System.gc();
     }
     
     
